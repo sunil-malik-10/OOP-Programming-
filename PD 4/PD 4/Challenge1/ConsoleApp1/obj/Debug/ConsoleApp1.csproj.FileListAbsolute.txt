@@ -1,0 +1,7 @@
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Codes\OOP\Week 4\PD 4\Challenge1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
